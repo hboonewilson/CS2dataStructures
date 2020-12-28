@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dba6ddf7-0d9d-4ba6-b0d8-0caee71672e3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jqKgEWZZR6SMxBFvObcC82RKNm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.GraphTest">
+    <configuration name="GraphTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MT2-DFS" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GraphTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphTest.testDFS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MT2-DFS" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GraphTest" />
+      <option name="METHOD_NAME" value="testDFS" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphTest.testDFSContainsAllNodes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MT2-DFS" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GraphTest" />
+      <option name="METHOD_NAME" value="testDFSContainsAllNodes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphTest.testDFSContainsDirectedNodes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MT2-DFS" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GraphTest" />
+      <option name="METHOD_NAME" value="testDFSContainsDirectedNodes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphTest.testDFSInteger" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MT2-DFS" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GraphTest" />
+      <option name="METHOD_NAME" value="testDFSInteger" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GraphTest" />
+        <item itemvalue="JUnit.GraphTest.testDFSContainsDirectedNodes" />
+        <item itemvalue="JUnit.GraphTest.testDFSContainsAllNodes" />
+        <item itemvalue="JUnit.GraphTest.testDFSInteger" />
+        <item itemvalue="JUnit.GraphTest.testDFS" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dba6ddf7-0d9d-4ba6-b0d8-0caee71672e3" name="Default Changelist" comment="" />
+      <created>1604526290687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604526290687</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="106" y="176" width="1204" height="624" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1604528489165">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="106" y="176" width="1204" height="624" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.877@0.23.1440.877" timestamp="1604528489165" />
+    <state width="1362" height="213" key="GridCell.Tab.0.bottom" timestamp="1604529005165">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1362" height="213" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1604529005165" />
+    <state width="1362" height="213" key="GridCell.Tab.0.center" timestamp="1604529005164">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1362" height="213" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1604529005164" />
+    <state width="1362" height="213" key="GridCell.Tab.0.left" timestamp="1604529005164">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1362" height="213" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1604529005164" />
+    <state width="1362" height="213" key="GridCell.Tab.0.right" timestamp="1604529005164">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1362" height="213" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1604529005164" />
+    <state width="1362" height="264" key="GridCell.Tab.1.bottom" timestamp="1604527467045">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1362" height="264" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1604527467045" />
+    <state width="1362" height="264" key="GridCell.Tab.1.center" timestamp="1604527467045">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1362" height="264" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1604527467045" />
+    <state width="1362" height="264" key="GridCell.Tab.1.left" timestamp="1604527467044">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1362" height="264" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1604527467044" />
+    <state width="1362" height="264" key="GridCell.Tab.1.right" timestamp="1604527467045">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1362" height="264" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1604527467045" />
+    <state x="420" y="389" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1604526732299">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="420" y="389" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.877@0.23.1440.877" timestamp="1604526732299" />
+  </component>
+</project>

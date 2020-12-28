@@ -1,0 +1,18 @@
+// They are all Lord of the Rings characters
+Graph:
+Node: Gandalf
+Node: Legolas
+Node: Gimli
+Node: Frodo
+Node: Aragorn
+Node: Boromir
+Node: Samwise
+Edge: Samwise -> Frodo
+Edge: Gimli -> Legolas
+Edge: Legolas -> Gimli
+Edge: Boromir -> Aragorn
+Edge: Aragorn -> Gandalf
+Edge: Frodo -> Gandalf
+Edge: Frodo -> Legolas
+Edge: Boromir -> Gimli
+endGraph
